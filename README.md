@@ -26,10 +26,10 @@
  Aprendi a criar classes, a fazer os construtores e métodos, além de exercitar minha lógica e raciocínio.
  
  ## * O que tem dificuldade ainda:<p>
- Nessa questão e nessa linguagem, sinto que não tenho mais dificuldades.
+ Tive mais problemas de identação, mas consegui concertar. Tive algus problemas tambem com o Controller.
  
  ## * Quanto tempo levou pra fazer a atividade:<p>
- Aproximadamente, duas horas.
+ Uns dois dias.
  
 # Carro
  ## * O que você fez:<p>
@@ -74,7 +74,7 @@
    Aprendi a criar classes, a fazer os construtores e métodos, aprendi, de vez, a fazer o toString e a usar ArrayList.
  
   ## * O que tem dificuldade ainda:<p>
-   Consegui superar todas as minhas dúvidas, enquenato executava a questão.
+   Consegui superar todas as minhas dúvidas, enquanto executava a questao.
    
   ## * Quanto tempo levou pra fazer a atividade:<p>
    Quase uma semana inteira. Cerca de uns cinco dias.
