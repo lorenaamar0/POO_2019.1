@@ -26,7 +26,7 @@
  Aprendi a criar classes, a fazer os construtores e métodos, além de exercitar minha lógica e raciocínio.
  
  ## * O que tem dificuldade ainda:<p>
- Tive mais problemas de identação, mas consegui concertar. Tive algus problemas tambem com o Controller.
+ Tive mais problemas de identação, mas consegui consertar. Tive algus problemas tambem com o Controller.
  
  ## * Quanto tempo levou pra fazer a atividade:<p>
  Uns dois dias.
