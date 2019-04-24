@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/lorenaamar0/POO_2019.1/blob/master/lorena.jpg)
 # ATIVIDADES DE POO
 ## calculadora em Python
  ### * O que você fez:<p>
