@@ -80,4 +80,19 @@
   ### * Quanto tempo levou pra fazer a atividade:<p>
    Quase uma semana inteira. Cerca de uns cinco dias.
    
-  
+  ## Agiota
+  ### * O que você fez:<p>
+    Fiz a atividade quase completa.
+
+  ### * Com quem e como você fez:<p>
+  Sozinha, talvez tenha sido por isso que eu senti mais dificuldade na questão, mas tentei fazer até onde consegui pensar e executar.
+
+  ### * O que aprendeu e sabe fazer:<p>
+   Aprendi a criar classes, a fazer os construtores e métodos, aprendi, de vez, a fazer o toString e a usar ArrayList.
+ 
+  ### * O que tem dificuldade ainda:<p>
+   A lógica e um pouco da linguagem.
+   
+  ### * Quanto tempo levou pra fazer a atividade:<p>
+   Fiz uma parte, parei um tempo por conta de outras disciplinas, mas depois retornei à ela e avancei mais. Sentada, fazendo essa questão, eu levei uns 5 dias.
+   
